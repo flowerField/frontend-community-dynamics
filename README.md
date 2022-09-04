@@ -3,10 +3,38 @@
 ～～～～～～ 前端相关社区动态 ～～～～～～
 ```
 
+**2022年09月04日**
+
+
+[WebKit 迁移到 GitHub](https://www.oschina.net/news/209115/webkit-on-github)
+
+[凹语言™IDE 插件指南已更新](https://www.oschina.net/news/209167/wa-lang-for-ide)
+
+[袋鼠数据库管理工具 1.98 已发布](https://www.oschina.net/news/209118/kangaroo-1-98-released)
+
+[Hikyuu 1.2.5 发布，高性能量化交易研究框架](https://www.oschina.net/news/209116/hikyuu-1-2-5-released)
+
+[JavaWeb 敏捷开发框架 EleVue 版本 v1.6.0 发布](https://www.oschina.net/news/209114/javaweb-elevue-1-6-0-released)
+
+[PipeWire 0.3.57 发布，多媒体处理工具](https://www.oschina.net/news/209103/pipewire-0-3-57-released)
+
+
+**2022年09月03日**
+
+[建木持续集成平台 v2.5.4 发布](https://www.oschina.net/news/209043)
+
+[Electron 20.1.1 发布，跨平台桌面应用开发工具](https://www.oschina.net/news/209007/electron-20-1-1-released)
+
+[TensorFlow 2.8.3 发布，机器学习平台](https://www.oschina.net/news/209006/tensorflow-2-8-3-released)
+
+[Calibre 6.4 发布，功能强大的开源电子书工具](https://www.oschina.net/news/209005/calibre-6-4-released)
+
 
 **2022年09月02日**
 
 [Visual Studio Code 1.71 发布](https://www.oschina.net/news/208861/visual-studio-code-1-71-released)
+
+[微软 “砍刀部” 动手，GitHub Trending 即将下架](https://www.oschina.net/news/208927/github-trending-deprecated)
 
 [Genode OS 22.08 发布，开源操作系统框架](https://www.oschina.net/news/208862/genode-os-framework-22-8-released)
 
