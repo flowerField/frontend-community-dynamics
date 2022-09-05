@@ -1,11 +1,31 @@
 
-## Introduction
-🏄‍ 记录前端相关社区和软件的更新动态
+# 🏄‍ 记录前端相关社区和软件的更新动态
+
+**2022年09月05日**
+
+[RuoYi 4.7.5 发布，更多细节优化](https://www.oschina.net/news/209218/ruoyi-4-7-5-released)
+
+[智能制造云办公 v3.7.29 发布，动态表单](https://www.oschina.net/news/209220/win10-skyeye-3-7-29-released)
+
+[Stats v2.7.33 发布，macOS 系统监视器](https://www.oschina.net/news/209207/stats-2-7-33-released)
+
+[DBeaver 22.2 发布，可视化数据库管理平台](https://www.oschina.net/news/209206/dbeaver-22-2-released)
+
+[视频录制以及直播串流的软件OBS Studio 28.0.1 发布](https://www.oschina.net/news/209204/obs-studio-28-0-1-released)
+
+[GFPGAN V1.3.0 发布，腾讯开源的人脸修复算法](https://www.oschina.net/news/209203/gepgan-1-3-0-released)
+
+[Ant Design 4.23 发布，企业级 UI 设计语言和 React 实现](https://www.oschina.net/news/209202/ant-design-4-23-released)
+
+[Erupt 1.10.13 发布，非代码生成，单个类文件，低代码构建领域后台模型](https://www.oschina.net/news/209186/erupt-1-10-13-released)
+
 
 **2022年09月04日**
 
 
 [WebKit 迁移到 GitHub](https://www.oschina.net/news/209115/webkit-on-github)
+
+[Dante Cloud 2.7.3.3 发布，企业级技术中台微服务架构](https://www.oschina.net/news/209181/dante-cloud-2-7-3-3-released)
 
 [凹语言™IDE 插件指南已更新](https://www.oschina.net/news/209167/wa-lang-for-ide)
 
