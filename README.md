@@ -19,6 +19,16 @@
 
 [Erupt 1.10.13 发布，非代码生成，单个类文件，低代码构建领域后台模型](https://www.oschina.net/news/209186/erupt-1-10-13-released)
 
+[Node.js 之父喊话 Oracle：请释放 JavaScript 商标](https://www.oschina.net/news/209271/rd-javascript-trademark)
+
+[GoEdge CDN v0.5.2 发布，增加 JS Cookie 验证、简化缓存设置](https://www.oschina.net/news/209224)
+
+[开源 api 管理工具 v 1.6.0 发布](https://www.oschina.net/news/209289)
+
+[ShopWind V3.4.3 更新，支持批量采集淘宝天猫京东商品](https://www.oschina.net/news/209288)
+
+[Yao 0.10.1 正式发布，再见低代码](https://www.oschina.net/news/209228)
+
 
 **2022年09月04日**
 
