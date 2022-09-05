@@ -1,7 +1,7 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
-**2022年09月05日**
+**# 2022年09月05日**
 
 [RuoYi 4.7.5 发布，更多细节优化](https://www.oschina.net/news/209218/ruoyi-4-7-5-released)
 
@@ -30,7 +30,8 @@
 [Yao 0.10.1 正式发布，再见低代码](https://www.oschina.net/news/209228)
 
 
-**2022年09月04日**
+
+**# 2022年09月04日**
 
 
 [WebKit 迁移到 GitHub](https://www.oschina.net/news/209115/webkit-on-github)
@@ -48,7 +49,8 @@
 [PipeWire 0.3.57 发布，多媒体处理工具](https://www.oschina.net/news/209103/pipewire-0-3-57-released)
 
 
-**2022年09月03日**
+
+**# 2022年09月03日**
 
 [建木持续集成平台 v2.5.4 发布](https://www.oschina.net/news/209043)
 
@@ -59,7 +61,8 @@
 [Calibre 6.4 发布，功能强大的开源电子书工具](https://www.oschina.net/news/209005/calibre-6-4-released)
 
 
-**2022年09月02日**
+
+**# 2022年09月02日**
 
 [Visual Studio Code 1.71 发布](https://www.oschina.net/news/208861/visual-studio-code-1-71-released)
 
@@ -76,7 +79,8 @@
 [Dante Cloud 2.7.3.2 发布，企业级技术中台微服务架构](https://www.oschina.net/news/208799)
 
 
-**2022年09月01日**
+
+**# 2022年09月01日**
 
 [Flutter 3.3 发布](https://www.oschina.net/news/208715/flutter-3-3-released)
 
@@ -89,7 +93,6 @@
 [ioredis 成为最流行的 Node.js Redis 库](https://www.oschina.net/news/208601)
 
 [fastposter v2.9.2 最简单的海报生成器](https://www.oschina.net/news/208781/fastposter-2-9-2-released)
-
 
 [WordPress 6.0.2 正式发布](https://www.oschina.net/news/208703/wordpress-6-0-2-released)
 
