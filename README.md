@@ -1,6 +1,20 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年09月06日**
+[微软为 Vue.js 推出 Power BI 组件](https://www.oschina.net/news/209349/power-bi-component-for-vue-js)
+
+[React Native 0.70 发布，Hermes 成为默认引擎](https://www.oschina.net/news/209344/react-native-0-70-released)
+
+[Elixir v1.14 发布，函数式编程语言](https://www.oschina.net/news/209339/elixir-1-14-0-released)
+
+[网络扫描器Nmap 7.93 发布，25 周年版本](https://www.oschina.net/news/209338/nmap-7-93-released)
+
+[pnpm 7.10 发布，节省磁盘空间的软件包管理器](https://www.oschina.net/news/209337/pnpm-7-10-released)
+
+[Lapce 0.2.0 发布，Rust 编写的代码编辑器](https://www.oschina.net/news/209334/lapce-0-2-0-released)
+
+
 **# 2022年09月05日**
 
 [RuoYi 4.7.5 发布，更多细节优化](https://www.oschina.net/news/209218/ruoyi-4-7-5-released)
