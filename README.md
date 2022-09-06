@@ -2,6 +2,7 @@
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
 **# 2022年09月06日**
+
 [微软为 Vue.js 推出 Power BI 组件](https://www.oschina.net/news/209349/power-bi-component-for-vue-js)
 
 [React Native 0.70 发布，Hermes 成为默认引擎](https://www.oschina.net/news/209344/react-native-0-70-released)
