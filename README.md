@@ -2,6 +2,8 @@
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
 **# 2022年09月06日**
+
+
 [微软为 Vue.js 推出 Power BI 组件](https://www.oschina.net/news/209349/power-bi-component-for-vue-js)
 
 [React Native 0.70 发布，Hermes 成为默认引擎](https://www.oschina.net/news/209344/react-native-0-70-released)
@@ -14,6 +16,9 @@
 
 [Lapce 0.2.0 发布，Rust 编写的代码编辑器](https://www.oschina.net/news/209334/lapce-0-2-0-released)
 
+[酷瓜云课堂（腾讯云）企业版 v1.1.0 发布，通用在线教育解决方案](https://www.oschina.net/news/209365)
+
+[layui-vue 1.4.9 发布， layui-vue-admin 1.0 正式开源](https://www.oschina.net/news/209357/layui-vue-1-4-9-released)
 
 **# 2022年09月05日**
 
