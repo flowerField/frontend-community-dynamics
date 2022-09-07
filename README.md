@@ -1,6 +1,24 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年09月07日**
+
+[LLVM 15.0 发布](https://www.oschina.net/news/209468/llvm-15-0-released)
+
+[橙单低代码生成器 v2.5.3 发布，数据权限可精确到菜单](https://www.oschina.net/news/209462)
+
+[IoTLink v1.0.0 已经发布，物联网综合业务支撑平台](https://www.oschina.net/news/209461)
+
+[Firefox 104.0.2 发布](https://www.oschina.net/news/209448/firefox-104-0-2-released)
+
+[PHP 8.2.0 RC1 现已发布](https://www.oschina.net/news/209446/php-8-2-rc1-released)
+
+[新增分组柱状图，DataEase 开源数据可视化分析平台 v1.14.0 发布](https://www.oschina.net/news/209394/dataease-1-14-0-released)
+
+[Melog v3.1.0 正式发布，新版支持 Docker 部署](https://www.oschina.net/news/209419/melog-3-1-0-released)
+
+[Diesel 2.0.0 正式发布，Rust ORM 框架](https://www.oschina.net/news/209004/diesel-2-0-0-released)
+
 **# 2022年09月06日**
 
 [微软为 Vue.js 推出 Power BI 组件](https://www.oschina.net/news/209349/power-bi-component-for-vue-js)
