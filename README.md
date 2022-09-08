@@ -1,9 +1,33 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年09月08日**
+
+[Evernote 竞品 Notesnook 正式开源](https://www.oschina.net/news/209600/notesnook-open-source)
+
+[IPython 8.5 发布，Python 交互式解释器](https://www.oschina.net/news/209588/ipython-8-5-released)
+
+[Grafana 9.1.3 发布，系统指标监控与分析平台](https://www.oschina.net/news/209586/grafana-9-1-3-released)
+
+[t-io 3.8.3 发布，TiOMQ Client 公测版首次亮相](https://www.oschina.net/news/209482/t-io-3-8-3-released)
+
+[Cemu v2.0-1 发布，开源 Wii U 模拟器](https://www.oschina.net/news/209591/cemu-2-0-1-released)
+
+[EasyGoAdmin 敏捷开发框架 GoFrame+EleVue 版本 v1.1.0 发布](https://www.oschina.net/news/209585)
+
 **# 2022年09月07日**
 
 [LLVM 15.0 发布](https://www.oschina.net/news/209468/llvm-15-0-released)
+
+[高性能 Jsonpath 框架，Snack3 3.2.35 发布](https://www.oschina.net/news/209540/snacks3-3-2-35-released)
+
+[一站式服务治理平台，Water 2.8.2 发布](https://www.oschina.net/news/209529)
+
+[KubeVela 1.5：灵活框选 CNCF 原子能力打造独特的企业应用发布平台](https://www.oschina.net/news/209489/kubevela-1-5-released)
+
+[禅道自动化测试框架 ZTF 3.1 正式版发布](https://www.oschina.net/news/209487/zentaoatf-3-1-released)
+
+[MaxKey 单点登录认证系统 v3.5.6GA 发布](https://www.oschina.net/news/209471/maxkey-3-5-6-ga-released)
 
 [橙单低代码生成器 v2.5.3 发布，数据权限可精确到菜单](https://www.oschina.net/news/209462)
 
