@@ -1,6 +1,26 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年09月09日**
+
+[curl 存在一个长达 23.9 年的 DOS 漏洞](https://www.oschina.net/news/209743/curl-bug-23-years)
+
+[GitHub Copilot 对开发者生产力和幸福指数的影响](https://www.oschina.net/news/209737/github-copilots-impact-on-developer-productivity)
+
+[免费和开源的 3D 计算机图形软件工具集 Blender 3.3 LTS 发布](https://www.oschina.net/news/209734/blender-3-3-released)
+
+[Mongoose 6.5.5 发布，MongoDB 异步对象模型工具](https://www.oschina.net/news/209733/mongoose-6-5-5-released)
+
+[Python 3.10.7 发布](https://www.oschina.net/news/209726/python-3-10-7-released)
+
+[Bootstrap v5.2.1 发布](https://www.oschina.net/news/209725/bootstrap-5-2-1-released)
+
+[TensorFlow 2.10.0 已发布](https://www.oschina.net/news/209728/tensorflow-2-10-0-released)
+
+[uBlock 1.44.2 发布，浏览器高效广告过滤插件](https://www.oschina.net/news/209727/ublock-1-44-2-released)
+
+[Rainbond V5.8.1 版本发布 | 支持应用导出非容器环境安装包](https://www.oschina.net/news/209652/rainbond-5-8-1-released)
+
 **# 2022年09月08日**
 
 [Evernote 竞品 Notesnook 正式开源](https://www.oschina.net/news/209600/notesnook-open-source)
@@ -14,6 +34,17 @@
 [Cemu v2.0-1 发布，开源 Wii U 模拟器](https://www.oschina.net/news/209591/cemu-2-0-1-released)
 
 [EasyGoAdmin 敏捷开发框架 GoFrame+EleVue 版本 v1.1.0 发布](https://www.oschina.net/news/209585)
+
+[Sa-Token v1.31.0 发布，轻量级 Java 权限认证框架](https://www.oschina.net/news/209630/sa-token-1-31-0-released)
+
+[现代化个人博客系统 ModStartBlog v5.7.0](https://www.oschina.net/news/209629/modstartblog-5-7-0-released)
+
+[酷瓜云课堂（局域网版）v1.0.1 发布，内网在线学习平台](https://www.oschina.net/news/209623)
+
+[FastCFS v3.6 发布，文件读写性能大幅提升](https://www.oschina.net/news/209611/fastcfs-3-6-released)
+
+[HertzBeat v1.1.3 发布，易用友好的实时监控系统](https://www.oschina.net/news/209602/hertzbeat-1-1-3-released)
+
 
 **# 2022年09月07日**
 
