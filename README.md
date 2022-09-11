@@ -1,6 +1,37 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年09月11日**
+
+[Fedora Linux 37 Beta 将于下周 “准时” 发布](https://www.oschina.net/news/209927/fedora-37-beta-next-week)
+
+[Windows 平台软件包管理器Chocolatey 软件包下载安装次数已突破 20 亿](https://www.oschina.net/news/209926/chocolatey-two-billion-installs)
+
+[LibreOffice 7.3.6 发布](https://www.oschina.net/news/209921/libreoffice-7-3-6-released)
+
+**# 2022年09月10日**
+
+[Next.js 12.3 发布](https://www.oschina.net/news/209845/nextjs-12-3-released)
+
+[DataGrip 2022.2.3 发布，多引擎数据库平台](https://www.oschina.net/news/209844/datagrip-2022-2-3-released)
+
+[jSqlBox 5.0.15 发布，300 行代码干掉 GraphQL](https://www.oschina.net/news/209912/jsqlbox-5-0-15-released)
+
+[凹语言 v0.2.0 开始支持 Windows](https://www.oschina.net/news/209862)
+
+[Fedora 38 将使用 Kernel TLS 加速 GnuTLS](https://www.oschina.net/news/209854/fedora-38-gnutls-ktls)
+
+[coost 跨平台 C++ 基础库](https://www.oschina.net/p/coost)
+
+[uBlock Origin 作者开发新作，基于 Manifest V3 标准](https://www.oschina.net/news/209848/ubo-minus-extension)
+
+[洛书编程语言 1.0.1 发布](https://www.oschina.net/news/209831)
+
+[JavaWeb 敏捷开发框架 Layui 版本 v1.3.0 发布](https://www.oschina.net/news/209855)
+
+[Qt 5.15.6 LTS 开源版发布](https://www.oschina.net/news/209849/qt-5-15-6-opensource-released)
+
+
 **# 2022年09月09日**
 
 [curl 存在一个长达 23.9 年的 DOS 漏洞](https://www.oschina.net/news/209743/curl-bug-23-years)
@@ -20,6 +51,10 @@
 [uBlock 1.44.2 发布，浏览器高效广告过滤插件](https://www.oschina.net/news/209727/ublock-1-44-2-released)
 
 [Rainbond V5.8.1 版本发布 | 支持应用导出非容器环境安装包](https://www.oschina.net/news/209652/rainbond-5-8-1-released)
+
+[ShopWind V3.4.3 发布，新增商家端小程序 / APP](https://www.oschina.net/news/209802)
+
+[智能制造云办公 v3.7.30 大版本发布，涉及动态表单、工作流、ERP 等](https://www.oschina.net/news/209758/skyeye-3-7-30-released)
 
 **# 2022年09月08日**
 
