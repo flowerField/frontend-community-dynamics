@@ -1,5 +1,16 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
+**# 2022年09月12日**
+
+[KeePass 2.52 发布，密码管理工具](https://www.oschina.net/news/209998/keepass-2-52-released)
+
+[Debian 11.5 发布](https://www.oschina.net/news/209997/debian-11-5-released)
+
+[Fresh 1.1 正式发布，Deno 全栈 Web 框架](https://www.oschina.net/news/209992/fresh-1-1-released)
+
+[Winamp 5.9 正式发布，经典多媒体播放器](https://www.oschina.net/news/209991/winamp-5-9-final-released)
+
+[SvelteKit 进入发行候选阶段，稳定版发布倒计时开始](https://www.oschina.net/news/209962/sveltekit-rc)
 
 **# 2022年09月11日**
 
