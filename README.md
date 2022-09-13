@@ -1,5 +1,23 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
+
+**# 2022年09月13日**
+
+[Swift 5.7 发布](https://www.oschina.net/news/210073/swift-5-7-released)
+
+[Docker 20.10.18 发布](https://www.oschina.net/news/210071/docker-20-10-18-released)
+
+[Stats 2.7.34 发布，macOS 系统监视器](https://www.oschina.net/news/210069/stats-2-7-34-released)
+
+[程序员笔记 CherryTree 0.99.49.0 发布](https://www.oschina.net/news/210067/cherrytree-0-99-49-released)
+
+[SerenityOS 作者新作品：跨平台 Web 浏览器 Ladybird](https://www.oschina.net/news/210084/cross-platform-browser-project-ladybird)
+
+[GoView 低代码数据可视化开发平台加入 Dromara 开源社区](https://www.oschina.net/news/210082)
+
+[Kong 3.0.0 发布，云原生 API 网关](https://www.oschina.net/news/210068/kong-3-0-0-released)
+
+
 **# 2022年09月12日**
 
 [KeePass 2.52 发布，密码管理工具](https://www.oschina.net/news/209998/keepass-2-52-released)
