@@ -1,6 +1,41 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年09月14日**
+
+[Rust 成立专门的安全团队](https://www.oschina.net/news/210220/rust-new-security-team)
+
+[Element 2.15.10 发布，基于 Vue 的桌面端组件库](https://www.oschina.net/news/210210/element-2-15-10-released)
+
+[FLAC 1.4 发布，无损音频编解码器](https://www.oschina.net/news/210209/flac-1-4-released)
+
+[Python 3.11.0rc2 发布，正式版推迟至 10 月 24 日](https://www.oschina.net/news/210207/python-3-11-0-rc2-released)
+
+[DuckDB 0.5 发布](https://www.oschina.net/news/210205/duckdb-0-5-released)
+
+[Hexo Fluid 博客主题更新 1.9.3 版本](https://www.oschina.net/news/210124/hexo-theme-fluid-1-9-3-released)
+
+[Windows Terminal Preview 1.16 发布](https://www.oschina.net/news/210214/windows-terminal-preview-1-16-released)
+
+[PhotoDemon 9.0 已发布，轻量级免安装照片编辑器](https://www.oschina.net/news/210211/photodemon-9-0)
+
+[Unicode 15.0 标准已发布，新增鹅、姜、驴、豌豆等 emoji](https://www.oschina.net/news/210206/unicode-standard-version-15)
+
+[一站式开发框架 Go-Spring 发布 v1.1.2 版本](https://www.oschina.net/news/210115)
+
+[Loginsight 3.0.0 正式发布：致力于打造一款日志分析利器](https://www.oschina.net/news/210114)
+
+[基于 Java 开发的微服务聚合网关 Fizz Gateway 2.7.0 发布，支持灰度发布](https://www.oschina.net/news/210237/fizz-gateway-2-7-0-released)
+
+[smart-doc 2.5.3 发布，Java 零注解 API 文档生成工具](https://www.oschina.net/news/210230/smart-doc-2-5-3-released)
+
+[RuoYi-Vue-Plus 4.3.0 正式发布，接口文档无注解零入侵，让代码优雅起来](https://www.oschina.net/news/210228)
+
+[Eoapi v1.7.0 发布：支持 Websocket 协议测试、插件管理](https://www.oschina.net/news/210227/eoapi-1-7-0-released)
+
+[开源跨平台截图工具 ZenShot 1.2 发布！集成禅道，可将截图直接提交至禅道](https://www.oschina.net/news/210223/zenshot-1-2-released)
+
+
 **# 2022年09月13日**
 
 [Swift 5.7 发布](https://www.oschina.net/news/210073/swift-5-7-released)
@@ -10,6 +45,10 @@
 [Stats 2.7.34 发布，macOS 系统监视器](https://www.oschina.net/news/210069/stats-2-7-34-released)
 
 [程序员笔记 CherryTree 0.99.49.0 发布](https://www.oschina.net/news/210067/cherrytree-0-99-49-released)
+
+[私密分享应用 xshare 发布第一个版本](https://www.oschina.net/news/210111)
+
+[DBCart 多语言商城系统 V3.1 RC 220912 发布](https://www.oschina.net/news/210095)
 
 [SerenityOS 作者新作品：跨平台 Web 浏览器 Ladybird](https://www.oschina.net/news/210084/cross-platform-browser-project-ladybird)
 
