@@ -1,7 +1,37 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年09月15日**
+
+[FastDFS V6.09 发布，整合网络框架 libserverframe](https://www.oschina.net/news/210361/fastdfs-6-09-released)
+
+[Meta 开源 MemLab：JavaScript 内存泄漏检测工具](https://www.oschina.net/news/210342/meta-open-source-memlab)
+
+[Rust Linux 驱动程序能够实现与 C 驱动程序相当的性能](https://www.oschina.net/news/210339/rust-linux-drivers)
+
+[Google Fonts 开源字体库新增首批彩色字体](https://www.oschina.net/news/210338/google-fonts-color-fonts)
+
+[全球 KVM 贡献榜公布，腾讯云再添 1 项核心突破](https://www.oschina.net/news/210280)
+
+[新一代国产 ORM 框架 sagacity-sqltoy-5.2.10 发版](https://www.oschina.net/news/210357/sagacity-sqltoy-5-2-10-released)
+
+[禅道 17.6.1 版本发布，优化多人任务流程，客户端支持在线文档协作](https://www.oschina.net/news/210354/zentaopms-17-6-1-released)
+
+[JeeSite Vue 5.1.0 发布，Spring Boot 快速开发平台](https://www.oschina.net/news/210343)
+
+[橙单低代码生成器 v2.5.5 发布，报表支持动态 SQL 数据集](https://www.oschina.net/news/210333)
+
+[Nginx Unit 1.28.0 发布，动态 Web 应用服务器](https://www.oschina.net/news/210330/nginx-unit-1.28.0-released)
+
+[pgBadger v12.0 发布，PostgreSQL 性能分析器](https://www.oschina.net/news/210329/pgbadger-12-0-released)
+
+[titbit v23.0.6 已经发布，Node.js 环境的 Web 后端框架](https://www.oschina.net/news/210322)
+
 **# 2022年09月14日**
+
+[DataGear 4.0.0 发布，数据可视化分析平台](https://www.oschina.net/news/210246)
+
+[高效易用的纯国产开源持续集成平台 —— EazyBuilder](https://www.oschina.net/news/210233)
 
 [Rust 成立专门的安全团队](https://www.oschina.net/news/210220/rust-new-security-team)
 
@@ -35,6 +65,11 @@
 
 [开源跨平台截图工具 ZenShot 1.2 发布！集成禅道，可将截图直接提交至禅道](https://www.oschina.net/news/210223/zenshot-1-2-released)
 
+[OAuthApp 开发文档更新 | H5 发布工具](https://www.oschina.net/news/210291)
+
+[ModStartCMS 企业内容建站系统 v4.8.0 昵称功能增强，内容公式支持](https://www.oschina.net/news/210273)
+
+[Tpflow V6.0.8 正式版发布](https://www.oschina.net/news/210261)
 
 **# 2022年09月13日**
 
