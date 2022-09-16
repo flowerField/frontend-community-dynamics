@@ -1,6 +1,21 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年09月16日**
+
+[Cloudflare 放弃 Nginx，使用内部 Rust 编写的 Pingora](https://www.oschina.net/news/210473/cloudflare-pingora-nginx)
+
+[Xcode 14.1 Beta 1 发布](https://www.oschina.net/news/210460/xcode-14-1-beta1-released)
+
+[Eoapi 开源 api 管理工具](https://www.oschina.net/p/eoapi)
+
+[Opera 91 稳定版发布](https://www.oschina.net/news/210464/opera-91-stable-released)
+
+[LibreOffice 7.4.1 发布，修复 80 个错误](https://www.oschina.net/news/210462/libreoffice-7-4-1-released)
+
+[IntelliJ IDEA 2022.2.2 发布](https://www.oschina.net/news/210461/intellij-idea-2022-2-2-released)
+
+
 **# 2022年09月15日**
 
 [FastDFS V6.09 发布，整合网络框架 libserverframe](https://www.oschina.net/news/210361/fastdfs-6-09-released)
@@ -26,6 +41,10 @@
 [pgBadger v12.0 发布，PostgreSQL 性能分析器](https://www.oschina.net/news/210329/pgbadger-12-0-released)
 
 [titbit v23.0.6 已经发布，Node.js 环境的 Web 后端框架](https://www.oschina.net/news/210322)
+
+[Fastcms v0.0.6-release 发布 为营销插件而生的门户系统](https://www.oschina.net/news/210414/fastcms-0-0-6-released)
+
+[Jeepay 1.15.0 正式发布：开箱即用的开源聚合支付系统](https://www.oschina.net/news/210426/jeepay-1-15-0-released)
 
 **# 2022年09月14日**
 
