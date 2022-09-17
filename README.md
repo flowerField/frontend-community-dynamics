@@ -1,6 +1,28 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年09月17日**
+
+[凹语言 v0.2.1 支持 Chrome 浏览器执行](https://www.oschina.net/news/210582)
+
+[Eclipse 4.25 发布](https://www.oschina.net/news/210600/eclipse-4-25-released)
+
+[Qt 6.4 RC 已发布](https://www.oschina.net/news/210602/qt-6-4-released)
+
+[杀毒软件 Avast 收购知名浏览器扩展](https://www.oschina.net/news/210609/avast-acquires-i-dont-care-about-cookies-browser-extension)
+
+[Adobe 以 200 亿美元收购在线协作设计平台 Figma](https://www.oschina.net/news/210475/adobe-to-acquire-figma)
+
+[JavaWeb 敏捷开发框架 EleVue 版本 v1.7.0 发布](https://www.oschina.net/news/210612)
+
+[EasyGoAdmin 敏捷开发框架 GoFrame+AntdVue 版本 v1.1.0 发布](https://www.oschina.net/news/210611)
+
+[Brave Browser 1.43 发布](https://www.oschina.net/news/210604/brave-browser-1-43-released)
+
+[Cemu 2.0-2 发布，开源 Wii U 模拟器](https://www.oschina.net/news/210603/cemu-2-0-2-released)
+
+[gRPC 1.49.0 发布，跨语言 RPC 框架](https://www.oschina.net/news/210599/grpc-1-49-0-released)
+
 **# 2022年09月16日**
 
 [Cloudflare 放弃 Nginx，使用内部 Rust 编写的 Pingora](https://www.oschina.net/news/210473/cloudflare-pingora-nginx)
@@ -15,6 +37,15 @@
 
 [IntelliJ IDEA 2022.2.2 发布](https://www.oschina.net/news/210461/intellij-idea-2022-2-2-released)
 
+[ShopWind V3.4.3 更新，一款开源多商户商城系统](https://www.oschina.net/news/210566)
+
+[courier - 信使 V0.0.8 更新，开源即时通讯工具性能测试结果出炉](https://www.oschina.net/news/210518)
+
+[易文档（yidocs），更简单的 Markdown 静态文档生成模板](https://www.oschina.net/news/210477)
+
+[layui-vue 1.4.13 发布，一 套 Vue 3.0 的桌面端组件库](https://www.oschina.net/news/210476/layui-vue-1-4-13-released)
+
+[Godot 4.0 Beta 1 已发布](https://www.oschina.net/news/210465/godot-4-0-beta-1-released)
 
 **# 2022年09月15日**
 
