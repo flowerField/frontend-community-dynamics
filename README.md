@@ -1,6 +1,23 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年09月19日**
+[Immich 自托管的照片备份解决方案](https://www.oschina.net/p/immich)
+
+
+
+**# 2022年09月18日**
+
+[Apache Druid 24.0.0 发布了](https://www.oschina.net/news/210793/apache-druid-24-0-released)
+
+[深度 deepin 开源自研编程语言：Unilang](https://www.oschina.net/news/210746/deepin-unilang)
+
+[沙盒建造游戏 MockMechanics 正式开源](https://www.oschina.net/news/210716/mockmechanics-open-source)
+
+[受 Log4j 等安全因素影响，40% 的业内人士缩减了开源使用规模](https://www.oschina.net/news/210714/state-of-data-science-report-2022)
+
+[MemLab JavaScript 内存泄漏检测工具](https://www.oschina.net/p/memlab)
+
 **# 2022年09月17日**
 
 [凹语言 v0.2.1 支持 Chrome 浏览器执行](https://www.oschina.net/news/210582)
