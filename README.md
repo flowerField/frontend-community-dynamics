@@ -4,7 +4,11 @@
 **# 2022年09月19日**
 [Immich 自托管的照片备份解决方案](https://www.oschina.net/p/immich)
 
+[开源日志监控平台 frostmourne 0.9 发布](https://www.oschina.net/news/210859/frostmourne-0-9-released)
 
+[HServer 3.1.M2 已经发布，高性能 Webserver](https://www.oschina.net/news/210852)
+
+[建木持续集成平台 v2.5.5 发布](https://www.oschina.net/news/210834)
 
 **# 2022年09月18日**
 
