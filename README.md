@@ -1,7 +1,38 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年09月20日**
+
+[PolarisMesh 北极星 V1.11.3 版本发布](https://www.oschina.net/news/210995/polarismesh-1-11-3-released)
+
+[WebKit 包含专门针对 YouTube 的处理代码](https://www.oschina.net/news/210953/webkit-youtube)
+
+[Kodi 20 Alpha 3 发布，开源媒体播放器](https://www.oschina.net/news/210936/kodi-20-x-nexus-alpha-3-released)
+
+[pnpm 7.12 发布，节省磁盘空间的软件包管理器](https://www.oschina.net/news/210935/pnpm-7-12-released)
+
+[CudaText 1.171.0 发布，跨平台的文本编辑器](https://www.oschina.net/news/210932/cudatext-1-171-0-released)
+
+[Vitest v0.23.4 发布，原生 Vite 测试框架](https://www.oschina.net/news/210930/vitest-0-23-4-released)
+
+[EazyBuilder（易构）持续集成平台新版本 v0.0.7 正式发布](https://www.oschina.net/news/211020)
+
+[OAuthApp v1.9.20 更新 | H5 发布工具](https://www.oschina.net/news/211018)
+
+[禅道自动化测试框架 ZTF 3.2 beta2 发布，支持连接到远程服务器和执行节点](https://www.oschina.net/news/211003)
+
+[rustms 首次开源发布](https://www.oschina.net/news/210986)
+
+[EE 框架 2.2.0 发布，简单易学的桌面应用开发框架](https://www.oschina.net/news/210961)
+
+[Fastcms v0.0.7-release 发布，为营销插件而生的门户系统](https://www.oschina.net/news/210950)
+
+[Visual Studio 2022 17.4 Preview 2 发布](https://www.oschina.net/news/210934/vs-2022-17-4-preview2-released)
+
 **# 2022年09月19日**
+
+[avue v2.10.1 发布，基于 Element 的前端框架](https://www.oschina.net/news/210911)
+
 [Immich 自托管的照片备份解决方案](https://www.oschina.net/p/immich)
 
 [开源日志监控平台 frostmourne 0.9 发布](https://www.oschina.net/news/210859/frostmourne-0-9-released)
@@ -9,6 +40,7 @@
 [HServer 3.1.M2 已经发布，高性能 Webserver](https://www.oschina.net/news/210852)
 
 [建木持续集成平台 v2.5.5 发布](https://www.oschina.net/news/210834)
+
 
 **# 2022年09月18日**
 
