@@ -1,6 +1,22 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年09月21日**
+
+[LibreOffice 已上架 Mac App Store，售价 8.99 美元](https://www.oschina.net/news/211077/libreoffice-on-apples-mac-app-store)
+
+[Firefox 105 发布，在 Linux 系统上带来更好的性能](https://www.oschina.net/news/211073/firefox-105-released)
+
+[FileZilla Client 3.61 发布](https://www.oschina.net/news/211072/filezilla-client-3-61-0-released)
+
+[Gleam v0.23 发布，Rust 编写的函数式编程语言](https://www.oschina.net/news/211071/gleam-0-23-released)
+
+[Taichi v1.1.3 发布，计算机图形学编程语言](https://www.oschina.net/news/211069/taichi-1-1-3-released)
+
+[《灯灯》多租户快速开发平台 4.11.0 发布，大租户 & 小租户模式正式上线](https://www.oschina.net/news/211083/lamp-cloud-4-11-0-released)
+
+[Terminal.Gui v1.8.0 发布，.NET 跨平台终端 UI 工具包](https://www.oschina.net/news/211070/terminal-gui-1-8-0-released)
+
 **# 2022年09月20日**
 
 [PolarisMesh 北极星 V1.11.3 版本发布](https://www.oschina.net/news/210995/polarismesh-1-11-3-released)
