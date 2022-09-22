@@ -19,7 +19,19 @@
 
 [Wasmtime 1.0 正式发布：快速、安全、可用于生产环境](https://www.oschina.net/news/211154/wasmtime-1-0-released)
 
+[FastCFS V3.6.1 发布，主要是 bug 修复和小改进](https://www.oschina.net/news/211287/fastcfs-3-6-1-released)
 
+[feilong 3.3.0 发布，让 Java 开发更简便的工具库](https://www.oschina.net/news/211286/feilong-3-3-0-released)
+
+[YunGouOS 2.0.28 版本发布，微信、支付宝个人全渠道支付接口](https://www.oschina.net/news/211248/yungouos-2-0-28-released)
+
+[bootx-platform v1.1.3 工作流补全计划](https://www.oschina.net/news/211234)
+
+[XThinkCMF 敏捷开发框架 ThinkPhp6.x+EleVue 版本 v2.2.0 发布](https://www.oschina.net/news/211224)
+
+[IJPay 2.9.0 版本发布，让支付触手可及](https://www.oschina.net/news/211220/ijpay-2-9-0-released)
+
+[Aeraki Mesh 1.2.0 发布，Istio 服务网格流量管理工具](https://www.oschina.net/news/211213/aeraki-mesh-1-2-0-released)
 
 **# 2022年09月21日**
 
@@ -36,6 +48,14 @@
 [《灯灯》多租户快速开发平台 4.11.0 发布，大租户 & 小租户模式正式上线](https://www.oschina.net/news/211083/lamp-cloud-4-11-0-released)
 
 [Terminal.Gui v1.8.0 发布，.NET 跨平台终端 UI 工具包](https://www.oschina.net/news/211070/terminal-gui-1-8-0-released)
+
+[TLog v1.5.0 发布，Java 日志追踪神器](https://www.oschina.net/news/211129)
+
+[数据可视化平台飞鱼（FlyFish）2.2.1 更新，新增 ClickHouse 等更多数据源](https://www.oschina.net/news/211120)
+
+[酷瓜云课堂（腾讯云）开源版 v1.5.9 发布，在线教育解决方案](https://www.oschina.net/news/211099)
+
+[Sqlbean 安卓版 1.1.9 发布，无需 Sqlite 语句，助你实现快速开发](https://www.oschina.net/news/211091/sqlbean-1-1-9-released)
 
 **# 2022年09月20日**
 
