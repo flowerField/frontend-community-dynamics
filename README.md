@@ -1,6 +1,26 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年09月22日**
+
+[ModStartBlog v5.8.0 发布，分类信息完善、登录界面优化](https://www.oschina.net/news/211306)
+
+[Mesa 22.3 RadeonSI 默认启用 OpenGL 线程以增强性能](https://www.oschina.net/news/211225/mesa-22-3-radeonsi-glthread-on)
+
+[HarfBuzz 5.2 发布，支持 Unicode 15](https://www.oschina.net/news/211211/harfbuzz-5-2-released)
+
+[RocksDB 7.6.0 发布，Facebook 开发的 k-v 存储系统](https://www.oschina.net/news/211210/rocksdb-7-6-0-released)
+
+[Elasticsearch v8.4.2 已发布，全文搜索引擎](https://www.oschina.net/news/211209/elasticsearch-8-4-2-released)
+
+[LLVM 15.0.1 发布](https://www.oschina.net/news/211208/llvm-15-0-1-released)
+
+[OpenCloudOS 社区稳定版 8.6 正式发布，支持直接部署应用至生产系统](https://www.oschina.net/news/211164/opencloudos-8-6-released)
+
+[Wasmtime 1.0 正式发布：快速、安全、可用于生产环境](https://www.oschina.net/news/211154/wasmtime-1-0-released)
+
+
+
 **# 2022年09月21日**
 
 [LibreOffice 已上架 Mac App Store，售价 8.99 美元](https://www.oschina.net/news/211077/libreoffice-on-apples-mac-app-store)
