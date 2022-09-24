@@ -11,6 +11,31 @@
 
 [Weston 11.0 发布，Wayland 合成器的参考实现](https://www.oschina.net/news/211487/weston-11-0-released)
 
+[ExTiX 22.9 发布，基于 Ubuntu 的桌面 Linux 发行版](https://www.oschina.net/news/211488/extix-22-9-released)
+
+[开源前端地图库 Leaflet 发布 1.9 版本](https://www.oschina.net/news/211472)
+
+[酷瓜云课堂（腾讯云）企业版 v1.1.1 发布，在线教育解决方案](https://www.oschina.net/news/211406)
+
+**# 2022年09月23日**
+
+[欧盟启动开放 Web 搜索项目，希望替代 Google](https://www.oschina.net/news/211379/eu-openwebsearch)
+
+[Rust 1.64.0 发布](https://www.oschina.net/news/211369/rust-1-64-released)
+
+[舍弃谷歌翻译，Brave 浏览器自研隐私友好的翻译服务](https://www.oschina.net/news/211367/brave-translate-privacy-friendly)
+
+[FerretDB v0.5.4 发布，MongoDB 的开源替代品](https://www.oschina.net/news/211360/ferretdb-0-5-4-released)
+
+[Electron 20.2.0 发布，跨平台桌面应用开发工具](https://www.oschina.net/news/211359/electron-20-2-0-released)
+
+[Taro 3.5.6 发布，BAT 小程序、H5 与 RN 端统一框架](https://www.oschina.net/news/211358/taro-3-5-6-released)
+
+[重大升级，MaxKey 单点登录认证系统 v3.5.7GA 发布](https://www.oschina.net/news/211385/maxkey-3-5-7-ga-released)
+
+[开源的 OA 办公系统 —— 勾股 OA 4.9.22 发布](https://www.oschina.net/news/211382)
+
+
 **# 2022年09月22日**
 
 [ModStartBlog v5.8.0 发布，分类信息完善、登录界面优化](https://www.oschina.net/news/211306)
