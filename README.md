@@ -1,6 +1,16 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年09月24日**
+
+[PipeWire 已初步支持蓝牙低功耗音频](https://www.oschina.net/news/211497/pipewire-initial-support-bluetooth-le-audio)
+
+[Wine 7.18 发布，支持 Unicode 15](https://www.oschina.net/news/211494/wine-7-18-released)
+
+[Thunderbird 102.3 发布，Mozilla 旗下的邮件客户端](https://www.oschina.net/news/211490/thunderbird-102-3-released)
+
+[Weston 11.0 发布，Wayland 合成器的参考实现](https://www.oschina.net/news/211487/weston-11-0-released)
+
 **# 2022年09月22日**
 
 [ModStartBlog v5.8.0 发布，分类信息完善、登录界面优化](https://www.oschina.net/news/211306)
