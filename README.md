@@ -1,6 +1,16 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年09月25日**
+
+[Node.js v14.20.1、16.17.1 & 18.9.1 发布](https://www.oschina.net/news/211583/nodejs-16-17-1-lts-released)
+
+[挑战杜比视界、杜比全景声，Google 将推出开放媒体格式](https://www.oschina.net/news/211590/google-project-caviar)
+
+[pgAdmin 4 v6.14 发布，PostgreSQL 开源图形化管理工具](https://www.oschina.net/news/211585/pgadmin-4-6-14-released)
+
+[OnlyOffice 7.2 发布](https://www.oschina.net/news/211584/onlyoffice-7-2-released)
+
 **# 2022年09月24日**
 
 [PipeWire 已初步支持蓝牙低功耗音频](https://www.oschina.net/news/211497/pipewire-initial-support-bluetooth-le-audio)
