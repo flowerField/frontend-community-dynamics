@@ -1,6 +1,20 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年09月26日**
+
+[DBeaver 22.2.1 发布，多平台数据库工具](https://www.oschina.net/news/211665/dbeaver-22-2-1-released)
+
+[TypeScript 4.9 Beta 发布](https://www.oschina.net/news/211663/typescript-4-9-beta-released)
+
+[Appwrite 1.0 发布，Firebase 开源替代品](https://www.oschina.net/news/211658/appwrite-1-0-released)
+
+[Phalcon v5.0 发布，PHP 框架](https://www.oschina.net/news/211657/phalcon-5-0-released)
+
+[gosearch v0.0.3 发布](https://www.oschina.net/news/211635/gosearch-0-0-3-released)
+
+[Ubuntu Core 将支持物联网 Matter 标准](https://www.oschina.net/news/211670/canonical-joins-the-connectivity-standards-alliance)
+
 **# 2022年09月25日**
 
 [Node.js v14.20.1、16.17.1 & 18.9.1 发布](https://www.oschina.net/news/211583/nodejs-16-17-1-lts-released)
