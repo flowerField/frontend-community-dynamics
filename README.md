@@ -25,6 +25,16 @@
 
 [JeecgBoot 3.4.2 版本发布，Vue3 版本大升级](https://www.oschina.net/news/211696)
 
+[PHP 开发框架 TimoPHP 1.9.5 版本发布](https://www.oschina.net/news/211887)
+
+[ShopWind V3.4.3 更新，类似拼多多拼团新玩法](https://www.oschina.net/news/211854/shopwind-3-4-3-released)
+
+[Electron 19.1.0 发布，跨平台桌面应用开发工具](https://www.oschina.net/news/211840/electron-19-1-0-released)
+
+[feilong 3.3.1 发布了，让 Java 开发更简便的工具库](https://www.oschina.net/news/211835/feilong-3-3-1-released)
+
+[DataGear 4.0.1 发布，数据可视化分析平台](https://www.oschina.net/news/211814/datagear-4-0-1-released)
+
 **# 2022年09月26日**
 
 [DBeaver 22.2.1 发布，多平台数据库工具](https://www.oschina.net/news/211665/dbeaver-22-2-1-released)
