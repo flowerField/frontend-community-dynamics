@@ -1,6 +1,30 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年09月27日**
+
+[IntelliJ IDEA 2022.3 发布首个 EAP 版本](https://www.oschina.net/news/211784/intellij-idea-2022-2-3-eap-released)
+
+[洛书编程语言 1.2.1 已经发布](https://www.oschina.net/news/211794)
+
+[GitLab 15.4 发布，改进 VS Code 中的 CI/CD 集成](https://www.oschina.net/news/211783/gitlab-15-4-released)
+
+[Semi Design v2.20.0 发布，抖音企业级 UI 库](https://www.oschina.net/news/211782/semi-design-2-20-0-released)
+
+[Apache ECharts 5.4.0 发布，交互式图表可视化库](https://www.oschina.net/news/211780/apache-echarts-5-4-0-released)
+
+[Stats 2.7.36 发布，macOS 系统监视器](https://www.oschina.net/news/211779/stats-2-7-36-released)
+
+[Audacity 3.2 发布，支持 VST3 和实时效果](https://www.oschina.net/news/211777/audacity-3-2-released)
+
+[DataCap 第一个版本即将发布](https://www.oschina.net/news/211725)
+
+[接口测试自定义模板，MeterSphere 开源持续测试平台 v2.2.0 发布](https://www.oschina.net/news/211710/metersphere-2-2-0-released)
+
+[Loginsight 3.1.0 正式发布：致力于打造一款日志分析利器](https://www.oschina.net/news/211707/loginsight-3-1-0-released)
+
+[JeecgBoot 3.4.2 版本发布，Vue3 版本大升级](https://www.oschina.net/news/211696)
+
 **# 2022年09月26日**
 
 [DBeaver 22.2.1 发布，多平台数据库工具](https://www.oschina.net/news/211665/dbeaver-22-2-1-released)
@@ -14,6 +38,15 @@
 [gosearch v0.0.3 发布](https://www.oschina.net/news/211635/gosearch-0-0-3-released)
 
 [Ubuntu Core 将支持物联网 Matter 标准](https://www.oschina.net/news/211670/canonical-joins-the-connectivity-standards-alliance)
+
+[酷瓜云课堂（内网版）v1.0.2 发布，局域网教学平台方案](https://www.oschina.net/news/211694)
+
+[智能制造云办公 v3.8.2 发布，ERP 更新](https://www.oschina.net/news/211675/win10-skyeye-3-8-2-released)
+
+[GoEdge CDN v0.5.3 发布，改进缓存 LFU 算法、UDP、防盗链](https://www.oschina.net/news/211668/goedge-0-5-3-released)
+
+[RuoYi-Vue 3.8.4 发布，更多细节优化](https://www.oschina.net/news/211666/ruoyi-vue-3-8-4-released)
+
 
 **# 2022年09月25日**
 
