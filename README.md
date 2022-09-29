@@ -1,6 +1,75 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年09月29日**
+
+[RuoYi-Cloud-Plus 发布 1.3.0，源码集成 Nacos 控制台](https://www.oschina.net/news/212122)
+
+[Eoapi x Tapdata 插件上线：让数据真正的流动起来，API 管理更方便！](https://www.oschina.net/news/212111)
+
+
+[Opera 将回购 360 手中股份](https://www.oschina.net/news/212065/opera-and-360-agree-share-repurchase)
+
+[Google 开源 TensorStore，为读写大型多维数据而设计](https://www.oschina.net/news/211942/google-tensorstore)
+
+[Chrome 106 发布，引入新的 CSS 'ic' 长度单位](https://www.oschina.net/news/211939/chrome-106-released)
+
+[禅道 17.6.2 发布，更新禅道蓝、青春蓝、叶兰绿三大主题](https://www.oschina.net/news/212104)
+
+[一个安全舒适的 CMS，JPress v5.0.3 发布](https://www.oschina.net/news/212098/jpress-5-0-3-released)
+
+[layui-vue 1.5.0 发布，一 套 Vue 3.0 的桌面端组件库](https://www.oschina.net/news/212079)
+
+[Pyston 2.3.5 发布，比 Python 更快的开源替代实现](https://www.oschina.net/news/212059/pyston-2-3-5-released)
+
+[txtai 5.0 发布，构建 AI 驱动的语义搜索应用](https://www.oschina.net/news/212058/txtai-5-0-released)
+
+[Apache Flink 1.14.6 发布，流处理框架](https://www.oschina.net/news/212057/apache-flink-1-14-6-released)
+
+[MirageOS 4.3 发布](https://www.oschina.net/news/212055/mirageos-4-3-released)
+
+[NET 框架 Furion v4.5.1 发布，贡献者破 220 人](https://www.oschina.net/news/212010/furion-4-5-1-released)
+
+**# 2022年09月28日**
+
+[RuoYi-Cloud-Plus 发布 1.3.0，源码集成 Nacos 控制台](https://www.oschina.net/news/212122)
+
+[Eoapi x Tapdata 插件上线：让数据真正的流动起来，API 管理更方便！](https://www.oschina.net/news/212111)
+
+
+[Opera 将回购 360 手中股份](https://www.oschina.net/news/212065/opera-and-360-agree-share-repurchase)
+
+[Google 开源 TensorStore，为读写大型多维数据而设计](https://www.oschina.net/news/211942/google-tensorstore)
+
+[Chrome 106 发布，引入新的 CSS 'ic' 长度单位](https://www.oschina.net/news/211939/chrome-106-released)
+
+[禅道 17.6.2 发布，更新禅道蓝、青春蓝、叶兰绿三大主题](https://www.oschina.net/news/212104)
+
+[一个安全舒适的 CMS，JPress v5.0.3 发布](https://www.oschina.net/news/212098/jpress-5-0-3-released)
+
+[layui-vue 1.5.0 发布，一 套 Vue 3.0 的桌面端组件库](https://www.oschina.net/news/212079)
+
+[Pyston 2.3.5 发布，比 Python 更快的开源替代实现](https://www.oschina.net/news/212059/pyston-2-3-5-released)
+
+[txtai 5.0 发布，构建 AI 驱动的语义搜索应用](https://www.oschina.net/news/212058/txtai-5-0-released)
+
+[Apache Flink 1.14.6 发布，流处理框架](https://www.oschina.net/news/212057/apache-flink-1-14-6-released)
+
+[MirageOS 4.3 发布](https://www.oschina.net/news/212055/mirageos-4-3-released)
+
+[NET 框架 Furion v4.5.1 发布，贡献者破 220 人](https://www.oschina.net/news/212010/furion-4-5-1-released)
+
+[Hutool-5.8.8 发布，Java 工具集](https://www.oschina.net/news/211982)
+
+[Beetl 3.11 发布，Java 模板引擎](https://www.oschina.net/news/211969/beetl-3-11-released)
+
+[maku-generator v2.0 发布，简单易用的代码生成器](https://www.oschina.net/news/211948/maku-generator-2-0-released)
+
+[《灯灯》多租户快速开发平台 4.12.0-beta 发布，大租户 & 小租户模式正式上线](https://www.oschina.net/news/211947)
+
+[Shotcut 22.09 发布，跨平台视频编辑器](https://www.oschina.net/news/211936/shotcut-22-09-released)
+
+
 **# 2022年09月27日**
 
 [IntelliJ IDEA 2022.3 发布首个 EAP 版本](https://www.oschina.net/news/211784/intellij-idea-2022-2-3-eap-released)
