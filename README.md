@@ -7,13 +7,6 @@
 
 [Eoapi x Tapdata 插件上线：让数据真正的流动起来，API 管理更方便！](https://www.oschina.net/news/212111)
 
-
-[Opera 将回购 360 手中股份](https://www.oschina.net/news/212065/opera-and-360-agree-share-repurchase)
-
-[Google 开源 TensorStore，为读写大型多维数据而设计](https://www.oschina.net/news/211942/google-tensorstore)
-
-[Chrome 106 发布，引入新的 CSS 'ic' 长度单位](https://www.oschina.net/news/211939/chrome-106-released)
-
 [禅道 17.6.2 发布，更新禅道蓝、青春蓝、叶兰绿三大主题](https://www.oschina.net/news/212104)
 
 [一个安全舒适的 CMS，JPress v5.0.3 发布](https://www.oschina.net/news/212098/jpress-5-0-3-released)
@@ -30,14 +23,9 @@
 
 [NET 框架 Furion v4.5.1 发布，贡献者破 220 人](https://www.oschina.net/news/212010/furion-4-5-1-released)
 
-**# 2022年09月28日**
-
-[RuoYi-Cloud-Plus 发布 1.3.0，源码集成 Nacos 控制台](https://www.oschina.net/news/212122)
-
-[Eoapi x Tapdata 插件上线：让数据真正的流动起来，API 管理更方便！](https://www.oschina.net/news/212111)
-
-
 [Opera 将回购 360 手中股份](https://www.oschina.net/news/212065/opera-and-360-agree-share-repurchase)
+
+**# 2022年09月28日**
 
 [Google 开源 TensorStore，为读写大型多维数据而设计](https://www.oschina.net/news/211942/google-tensorstore)
 
@@ -69,6 +57,13 @@
 
 [Shotcut 22.09 发布，跨平台视频编辑器](https://www.oschina.net/news/211936/shotcut-22-09-released)
 
+[Electron 21.0.0 发布，跨平台桌面应用开发工具](https://www.oschina.net/news/211935/electron-21-0-0-released)
+
+[CRUX 3.7 发布，轻量级 Linux 发行版](https://www.oschina.net/news/211934/crux-3-7-released)
+
+[Avidemux 2.8.1 发布，视频编辑器](https://www.oschina.net/news/211933/avidemux-2-8-1-released)
+
+[OpenAudible 3.6 发布，有声读物管理工具](https://www.oschina.net/news/211932/openaudible-3-6-released)
 
 **# 2022年09月27日**
 
