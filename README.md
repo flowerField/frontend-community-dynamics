@@ -1,6 +1,28 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年09月30日**
+
+[MrDoc 0.8.3 发布，类似语雀、飞书的开源知识库系统](https://www.oschina.net/news/212238/mrdoc-0-8-3-released)
+
+[Figma 开源替代品 Penpot 获 800 万美元 A 轮融资](https://www.oschina.net/news/212228/penpot-raises-8m-a-round-fund)
+
+[Cloudflare 推出 workerd，开源 JavaScript/Wasm 运行时](https://www.oschina.net/news/212226/cloudflare-workerd-open-source)
+
+[Qt 6.4 正式发布，添加 http 服务器、物理、光线等大量新模块](https://www.oschina.net/news/212221/qt-6-4-released)
+
+[凹语言支持 Notepad++ 语法高亮](https://www.oschina.net/news/212243)
+
+[Visual Studio for Mac 17.4 Preview 2.1 发布](https://www.oschina.net/news/212219/vs-for-mac-17-4-preview-2-1-released)
+
+[Kotlin 1.7.20 发布](https://www.oschina.net/news/212218/kotlin-1-7-20-released)
+
+[Plasma Mobile Gear 22.09 发布](https://www.oschina.net/news/212217/plasma-mobile-gear-22-09-released)
+
+[Pale Moon 31.3.0 发布，苍月浏览器](https://www.oschina.net/news/212216/pale-moon-31-3-0-released)
+
+[Ant Design 4.23.3 发布，企业级 UI 设计语言和 React 实现](https://www.oschina.net/news/212214/ant-design-4-23-3-released)
+
 **# 2022年09月29日**
 
 [RuoYi-Cloud-Plus 发布 1.3.0，源码集成 Nacos 控制台](https://www.oschina.net/news/212122)
