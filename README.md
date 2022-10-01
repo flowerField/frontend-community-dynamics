@@ -1,7 +1,33 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年10月01日**
+
+[Deno 1.26 发布，新增 CacheWeb API、提升性能](https://www.oschina.net/news/212346/deno-1-26-released)
+
+[Fedora 38 确认使用 Kernel TLS 加速 GnuTLS](https://www.oschina.net/news/212359/fedora-38-faster-gnutls-ktls)
+
+[RabbitMQ 3.11.0 已发布](https://www.oschina.net/news/212353/rabbitmq-3-11-0-released)
+
+[CKEditor 4.20 发布：优化编辑体验、增强表头功能](https://www.oschina.net/news/212352/ckeditor-4-20-released)
+
+[Jina-AI 3.10 发布，云原生神经搜索框架](https://www.oschina.net/news/212349/jina-ai-3-10-released)
+
+[袋鼠数据库管理工具 1.99 已发布](https://www.oschina.net/news/212348/kangaroo-1-99-released)
+
+[Glide v4.14.0 发布，Android 图片加载和缓存库](https://www.oschina.net/news/212345/glide-4-14-released)
+
+[JavaWeb 敏捷开发框架 EleVue 版本 v1.8.0 发布](https://www.oschina.net/news/212344)
+
+[EasyGoAdmin 敏捷开发框架 Gin+Layui 版本 v2.1.2 发布](https://www.oschina.net/news/212343)
+
+[建木 v2.5.6 发布](https://www.oschina.net/news/212322/jianmu-2-5-6-released)
+
+[GoEdge CDN v0.5.5 发布，修复 Bug、优化加载速度](https://www.oschina.net/news/212319/goedge-0-5-5-released)
+
 **# 2022年09月30日**
+
+[国内首个采用国密技术为核心的前后分离后台权限管理系统Snowy 2.0发布](https://www.oschina.net/news/212276/snowy-2-0-released)
 
 [MrDoc 0.8.3 发布，类似语雀、飞书的开源知识库系统](https://www.oschina.net/news/212238/mrdoc-0-8-3-released)
 
@@ -22,6 +48,10 @@
 [Pale Moon 31.3.0 发布，苍月浏览器](https://www.oschina.net/news/212216/pale-moon-31-3-0-released)
 
 [Ant Design 4.23.3 发布，企业级 UI 设计语言和 React 实现](https://www.oschina.net/news/212214/ant-design-4-23-3-released)
+
+[Torna v1.17.1 发布，企业接口文档解决方案](https://www.oschina.net/news/212317)
+
+[layui-vue 1.5.1 发布，Vue Layui 组件库](https://www.oschina.net/news/212315)
 
 **# 2022年09月29日**
 
