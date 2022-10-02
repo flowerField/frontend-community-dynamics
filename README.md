@@ -1,7 +1,23 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年10月02日**
+
+[XXL-RPC v1.7.0，分布式服务框架](https://www.oschina.net/news/212447/xxl-rpc-1-7-0-released)
+
+[Linux Lite 6.2 RC1 发布](https://www.oschina.net/news/212421/linux-lite-6-2-rc-released)
+
+[SQLite 3.39.4 发布](https://www.oschina.net/news/212420/sqlite-3-39-4-released)
+
+[zigbee2mqtt 1.28.0 发布， Zigbee 协议转 MQTT 工具](https://www.oschina.net/news/212419/zigbee2mqtt-1-28-0-released)
+
+[DataGrip 2022.2.5 发布，多引擎数据库平台](https://www.oschina.net/news/212418/datagrip-2022-2-5-released)
+
+[Dante Cloud 2.7.4.1 发布，企业级技术中台微服务架构](https://www.oschina.net/news/212417/dante-cloud-2-7-4-1-released)
+
 **# 2022年10月01日**
+
+[kplayer v0.5.7 版本发布，更适合云服务器直播的推流工具](https://www.oschina.net/news/212365)
 
 [Deno 1.26 发布，新增 CacheWeb API、提升性能](https://www.oschina.net/news/212346/deno-1-26-released)
 
