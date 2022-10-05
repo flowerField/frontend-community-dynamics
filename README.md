@@ -1,5 +1,16 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
+**# 2022年10月05日**
+
+[Matter 智能家居开源标准正式发布](https://www.oschina.net/news/212583/matter-1-0-released)
+
+[Git 2.38 发布，引入巨型仓库管理工具 "Scalar"](https://www.oschina.net/news/212582/git-2-38-released)
+
+[PMD 6.50 发布，代码分析器](https://www.oschina.net/news/212576/pmd-6-50-0-released)
+
+[Pithos 1.6.0，时隔两年再更新](https://www.oschina.net/news/212575/pithos-1-6-0-released)
+
+[墨干编辑器 v1.1.1-beta 已经发布，基于 GNU TeXmacs 的结构化编辑器](https://www.oschina.net/news/212574)
 
 **# 2022年10月02日**
 
