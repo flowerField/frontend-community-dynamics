@@ -22,6 +22,12 @@
 
 [pnpm 7.13 发布，节省磁盘空间的软件包管理器](https://www.oschina.net/news/212519/pnpm-7-13-released)
 
+**# 2022年10月03日**
+
+[Linux 6.0 正式发布](https://www.oschina.net/news/212471/linux-6-0-released)
+
+[Amazon WorkSpaces 宣布支持 Ubuntu](https://www.oschina.net/news/212426/amazon-workspaces-support-for-ubuntu)
+
 **# 2022年10月02日**
 
 [XXL-RPC v1.7.0，分布式服务框架](https://www.oschina.net/news/212447/xxl-rpc-1-7-0-released)
