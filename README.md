@@ -1,5 +1,6 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
+
 **# 2022年10月05日**
 
 [Matter 智能家居开源标准正式发布](https://www.oschina.net/news/212583/matter-1-0-released)
@@ -11,6 +12,10 @@
 [Pithos 1.6.0，时隔两年再更新](https://www.oschina.net/news/212575/pithos-1-6-0-released)
 
 [墨干编辑器 v1.1.1-beta 已经发布，基于 GNU TeXmacs 的结构化编辑器](https://www.oschina.net/news/212574)
+
+[EasyOCR 新增光栅字符分割算法，实现同时多数字识别](https://www.oschina.net/news/212589)
+
+[PHP 生成 Word 工具 MDword 1.1.3 正式发布，支持合并表格单元格](https://www.oschina.net/news/212536/mdword-1-1-3-released)
 
 **# 2022年10月04日**
 
