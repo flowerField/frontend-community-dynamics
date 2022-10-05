@@ -12,6 +12,16 @@
 
 [墨干编辑器 v1.1.1-beta 已经发布，基于 GNU TeXmacs 的结构化编辑器](https://www.oschina.net/news/212574)
 
+**# 2022年10月04日**
+
+[Neovim v0.8.0 发布，基于 Vim 的可扩展文本编辑器](https://www.oschina.net/news/212523/neovim-0-8-0-released)
+
+[PHP 7.4.32, 8.0.24 & 8.1.11 发布](https://www.oschina.net/news/212522/php-8-1-11-released)
+
+[Visual Studio 2022 v17.3.5 发布，支持 Xcode 14](https://www.oschina.net/news/212520/visual-studio-2022-17-3-5-released)
+
+[pnpm 7.13 发布，节省磁盘空间的软件包管理器](https://www.oschina.net/news/212519/pnpm-7-13-released)
+
 **# 2022年10月02日**
 
 [XXL-RPC v1.7.0，分布式服务框架](https://www.oschina.net/news/212447/xxl-rpc-1-7-0-released)
