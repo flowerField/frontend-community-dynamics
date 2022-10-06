@@ -1,6 +1,18 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年10月06日**
+
+[smart-socket v1.5.22 已经发布，基于 Java AIO 实现的异步通信框架](https://www.oschina.net/news/212648)
+
+[Pop!_OS COSMIC 桌面使用 Rust GUI 库 Iced 取代 GTK](https://www.oschina.net/news/212636/cosmic-desktop-iced-toolkit)
+
+[Canonical 推出免费的 Ubuntu Pro](https://www.oschina.net/news/212635/free-personal-ubuntu-pro)
+
+[Vivaldi 5.5 发布](https://www.oschina.net/news/212628/vivaldi-5-5-released)
+
+[IntelliJ IDEA 2022.2.3 发布](https://www.oschina.net/news/212627/intellij-idea-2022-2-3-released)
+
 **# 2022年10月05日**
 
 [Matter 智能家居开源标准正式发布](https://www.oschina.net/news/212583/matter-1-0-released)
