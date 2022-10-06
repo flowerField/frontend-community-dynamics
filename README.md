@@ -13,6 +13,14 @@
 
 [IntelliJ IDEA 2022.2.3 发布](https://www.oschina.net/news/212627/intellij-idea-2022-2-3-released)
 
+[ModStart-UEditor 2.5.0 发布，基于 UEditor 二次开发的富文本编辑器](https://www.oschina.net/news/212664)
+
+[smart-http v1.1.16 发布，轻量级的开源 HTTP 服务器](https://www.oschina.net/news/212660)
+
+[Spring Batch 5.0.0-M7 发布](https://www.oschina.net/news/212630/spring-batch-5-0-0-m7-released)
+
+[Eclipse Vert.x 4.3.4 发布，微服务开发框架](https://www.oschina.net/news/212629/eclipse-vert-x-4-3-4-released)
+
 **# 2022年10月05日**
 
 [Matter 智能家居开源标准正式发布](https://www.oschina.net/news/212583/matter-1-0-released)
