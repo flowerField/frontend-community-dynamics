@@ -9,6 +9,20 @@
 
 [Visual Studio Code 1.72 正式发布](https://www.oschina.net/news/212801/visual-studio-code-1-72-released)
 
+[Apache Ignite 2.14.0 版本发布，小幅改进版本](https://www.oschina.net/news/212816)
+
+[智能制造云办公 v3.8.4 发布，工作流更新](https://www.oschina.net/news/212813)
+
+[UEditorPlus v2.5.0 发布，Latex 公式编辑、源码样式优化](https://www.oschina.net/news/212812)
+
+[lamp-cloud 多租户快速开发平台 4.12.1-beta 发布，专注多租户解决方案](https://www.oschina.net/news/212811)
+
+[Spring Cloud 2022.0.0-M5 发布](https://www.oschina.net/news/212804/spring-cloud-2022-0-0-m5-released)
+
+[Dante Cloud 2.7.4.2 发布，基于 pnpm 的 monorepo 模式前端预览版发布](https://www.oschina.net/news/212798)
+
+[HertzBeat v1.2.0 发布，高性能监控告警系统](https://www.oschina.net/news/212769)
+
 **# 2022年10月07日**
 
 [Jboot v3.16.2 已经发布，一个基于 JFinal 的微服务框架](https://www.oschina.net/news/212720)
@@ -16,6 +30,18 @@
 [Debian 12 也将使用 PipeWire 作为默认音频服务器](https://www.oschina.net/news/212714/debian-12-pipewire)
 
 [经过 20 多年开发，Stellarium 1.0 正式发布](https://www.oschina.net/news/212705/stellarium-1-0-released)
+
+[墨干编辑器 v1.1.1-rc1 发布，基于 GNU TeXmacs 的结构化编辑器](https://www.oschina.net/news/212763)
+
+[layui - vue 1.6.2 发布，基于 vue 3.0 的桌面端组件库](https://www.oschina.net/news/212761)
+
+[smart-servlet v0.1.6 发布，Web 容器](https://www.oschina.net/news/212750)
+
+[bootx-platform v1.1.4 已经发布，单体式应用开发框架](https://www.oschina.net/news/212721)
+
+[PowerToys v0.63 发布，大幅缩小空间占用](https://www.oschina.net/news/212706/powertoys-0-63-released)
+
+[开源的 OA 办公系统 —— 勾股 OA 4.10.07 发布](https://www.oschina.net/news/212704)
 
 **# 2022年10月06日**
 
