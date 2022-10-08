@@ -1,6 +1,19 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年10月08日**
+
+[Debian 12 将采用 Ubuntu 的动态三重缓冲技术](https://www.oschina.net/news/212809/debian-dynamic-triple-gnome)
+
+[IntelliJ IDEA 2022.3 EAP2 发布](https://www.oschina.net/news/212803/intellij-idea-2022-3-eap-2-released)
+
+[Visual Studio Code 1.72 正式发布](https://www.oschina.net/news/212801/visual-studio-code-1-72-released)
+
+**# 2022年10月07日**
+
+[Jboot v3.16.2 已经发布，一个基于 JFinal 的微服务框架](https://www.oschina.net/news/212720)
+
+
 **# 2022年10月06日**
 
 [smart-socket v1.5.22 已经发布，基于 Java AIO 实现的异步通信框架](https://www.oschina.net/news/212648)
