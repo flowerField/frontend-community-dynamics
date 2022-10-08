@@ -13,6 +13,9 @@
 
 [Jboot v3.16.2 已经发布，一个基于 JFinal 的微服务框架](https://www.oschina.net/news/212720)
 
+[Debian 12 也将使用 PipeWire 作为默认音频服务器](https://www.oschina.net/news/212714/debian-12-pipewire)
+
+[经过 20 多年开发，Stellarium 1.0 正式发布](https://www.oschina.net/news/212705/stellarium-1-0-released)
 
 **# 2022年10月06日**
 
