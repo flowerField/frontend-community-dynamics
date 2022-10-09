@@ -1,7 +1,35 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年10月09日**
+
+[GoView 低代码数据可视化开发平台加入 Dromara 开源社区](https://www.oschina.net/news/212998/goview-join-into-dromara)
+
+[Rust Style 团队重组完成](https://www.oschina.net/news/212922/rust-style-team)
+
+[PhpStorm 2022.2.3 发布](https://www.oschina.net/news/212915/phpstorm-2022-2-3-released)
+
+[谷歌开源的语音编解码器 Lyra V2 发布](https://www.oschina.net/news/212914/lyra-v2-beta-released)
+
+[MyCms v3.8 发布，商城小程序上线](https://www.oschina.net/news/212947)
+
+[EasyGoAdmin 敏捷开发框架 Gin+EleVue 版本 v1.4.0 发布](https://www.oschina.net/news/212937)
+
+[maku-generator v2.0.1 发布，简单易用的代码生成器](https://www.oschina.net/news/212930)
+
+[Fastcms v0.0.8-release 发布，为营销插件而生的门户系统](https://www.oschina.net/news/212925)
+
+[IJPay 2.9.3 版本发布，让支付触手可及、开箱即用](https://www.oschina.net/news/212919)
+
+[Redis 桌面管理工具 RedisDesktopManager 2022.5 发布](https://www.oschina.net/news/212913/rdm-2022-5-released)
+
+[Redisson 3.17.7 发布，官方推荐的 Redis 客户端](https://www.oschina.net/news/212912/redisson-3-17-7-released)
+
 **# 2022年10月08日**
+
+[最强开源问卷考试系统【卷王】- V1.2.0 发布](https://www.oschina.net/news/212818/surveyking-1-2-0-released)
+
+[HertzBeat v1.2.0 发布，易用友好的实时监控系统](https://www.oschina.net/news/212831/hertzbeat-1-2-0-released)
 
 [Debian 12 将采用 Ubuntu 的动态三重缓冲技术](https://www.oschina.net/news/212809/debian-dynamic-triple-gnome)
 
