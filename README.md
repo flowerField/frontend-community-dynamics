@@ -1,6 +1,30 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年10月11日**
+
+[Kotlin Multiplatform Mobile 第一个 Beta 版本发布](https://www.oschina.net/news/213184/kotlin-multiplatform-mobile-beta)
+
+[VirtualBox 7.0，支持完全加密运行和 Direct3D 加速](https://www.oschina.net/news/213181/virtualbox-7-0-released)
+
+[Transmission 4.0.0 beta1 发布](https://www.oschina.net/news/213176/transmission-4-0-0-beta1-released)
+
+**# 2022年10月10日**
+
+[私域管理平台，LinkWechat V3.0 版本发布](https://www.oschina.net/news/213129/linkwechat-3-0-released)
+
+[openEuler 22.09 正式发布，与 1265 名开发者共建面向数字基础设施的开源操作系统](https://www.oschina.net/news/213069/openeuler-22-09-released)
+
+[TypeScript 诞生 10 周年](https://www.oschina.net/news/213045/ten-years-of-typescript)
+
+[MKVToolNix v71 发布，MKV 视频编辑工具](https://www.oschina.net/news/213038/mkvtoolnix-71-0-released)
+
+[Matomo 4.12 发布，网站访问统计系统](https://www.oschina.net/news/213036/matomo-4-12-0-released)
+
+[Gaphor 2.12.1 发布，基于 Python 的开源建模工具](https://www.oschina.net/news/213035/gaphor-2-12-1-released)
+
+[Libva 2.16.0 发布，VA-API (视频加速 API) 参考实现](https://www.oschina.net/news/213034/libva-2-16-0-released)
+
 **# 2022年10月09日**
 
 [GoView 低代码数据可视化开发平台加入 Dromara 开源社区](https://www.oschina.net/news/212998/goview-join-into-dromara)
