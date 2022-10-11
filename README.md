@@ -9,7 +9,49 @@
 
 [Transmission 4.0.0 beta1 发布](https://www.oschina.net/news/213176/transmission-4-0-0-beta1-released)
 
+[RustDesk Flutter 桌面尝鲜版 (Wayland & Linux)](https://www.oschina.net/news/213257)
+
+[DBCart 多语言商城系统 V3.1 RC 221010 发布](https://www.oschina.net/news/213243)
+
+[Proxy-Go 控制面板 v3.9 发布，一款好用的 HTTP/SOCKS5/IP 代理软件](https://www.oschina.net/news/213238)
+
+[学 Java 就用简单的框架，Solon v1.10.6 发布](https://www.oschina.net/news/213226/solon-1-10-6-released)
+
+[DBShop 商城系统 V3.2 Release 221010 发布](https://www.oschina.net/news/213214/dbshop-3-2-released)
+
+[免费试用 | 汉得企业级 PaaS 平台 HZERO Lite 安装版 1.9.0 正式发布！](https://www.oschina.net/news/213212)
+
+[PPZ.vscode v0.5.1-beta 已经发布，vscode 插件](https://www.oschina.net/news/213202)
+
+[MaxKey 单点登录认证系统 v3.5.8GA 发布](https://www.oschina.net/news/213196/maxkey-3-5-8-ga)
+
+[Xmake v2.7.2 发布，更加智能化构建第三方库](https://www.oschina.net/news/213193/xmake-2-7-2-released)
+
+[RedisFront v1.0.3 发布，跨平台 Redis 桌面客户端工具](https://www.oschina.net/news/213182)
+
+[FreeFileSync 11.26 发布，文件夹比较与同步软件](https://www.oschina.net/news/213180/freefilesync-11-26-released)
+
+[PeaZip 8.9.0 发布，压缩管理工具](https://www.oschina.net/news/213179/peazip-8-9-0-released)
+
+[Volar 1.0 "Nika" 发布，Vue 的官方 IDE/TS 支持工具](https://www.oschina.net/news/213178/volar-1-0-released)
+
+[PostgreSQL 15 RC 2 发布](https://www.oschina.net/news/213177/postgresql-15-rc-2-released)
+
+[Stats 2.7.38 发布，macOS 系统监视器](https://www.oschina.net/news/213174/stats-2-7-38-released)
+
 **# 2022年10月10日**
+
+[一个安全而优雅的 CMS，JPress v5.0.4 发布](https://www.oschina.net/news/213066/jpress-5-0-4-released)
+
+[时隔一年，web-flash 发布新版本：web-flash 2.2](https://www.oschina.net/news/213072/web-flash-2-2-released)
+
+[NanoMQ 新增桥接连接状态监控、重构日志系统](https://www.oschina.net/news/213086)
+
+[网页多语言翻译 js v1.2，更新翻译接口](https://www.oschina.net/news/213109)
+
+[GoFrame v2.2.0 发布，企业级 Golang 开发框架](https://www.oschina.net/news/213153/goframe-2-2-released)
+
+[支持飞书平台接入，DataEase 开源数据可视化分析平台 v1.15.0 发布](https://www.oschina.net/news/213161/dataease-1-15-0-released)
 
 [私域管理平台，LinkWechat V3.0 版本发布](https://www.oschina.net/news/213129/linkwechat-3-0-released)
 
@@ -24,6 +66,10 @@
 [Gaphor 2.12.1 发布，基于 Python 的开源建模工具](https://www.oschina.net/news/213035/gaphor-2-12-1-released)
 
 [Libva 2.16.0 发布，VA-API (视频加速 API) 参考实现](https://www.oschina.net/news/213034/libva-2-16-0-released)
+
+[layui-vue 1.6.4 发布，基于 vue 3.0 的桌面端组件库](https://www.oschina.net/news/213056)
+
+[洛书编程语言 1.2.6 已经发布](https://www.oschina.net/news/213039)
 
 **# 2022年10月09日**
 
