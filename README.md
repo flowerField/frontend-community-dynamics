@@ -1,16 +1,57 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
-**# 2022年10月12日**
+**# 2022年10月13日**
+
+[《铜豌豆 Linux》11.5.1 版本发布](https://www.oschina.net/news/project)
+
+[easy-trans-solon 1.0.0 版本发布，一个注解搞定数据翻译](https://www.oschina.net/news/213472/easy-trans-solon-1-0-0-released)
+
+[bootx-platform v1.1.5 vue3 版本启程，工作流功能完成](https://www.oschina.net/news/213463)
 
 [谷歌正式推出 “密钥登录”，逐步取代传统密码登录](https://www.oschina.net/news/213445/google-passkey-to-android-and-chrome)
 
+[高性能 Jsonpath 框架，Snack3 v3.2.44 发布](https://www.oschina.net/news/213455/snack3-3-2-44-released)
+
+[roncoo-education 11.0.0 发布，微服务分布式在线教育开源系统](https://www.oschina.net/news/213453)
+
+[程序员笔记 CherryTree 0.99.50.0 发布](https://www.oschina.net/news/213435/cherrytree-0-99-50-released)
+
+[Mesa 22.2.1 发布，修复数十个问题](https://www.oschina.net/news/213434/mesa-22-2-1-released)
+
+[Uutils 0.0.16 发布，基于 Rust 的 GNU Coreutils 替代品](https://www.oschina.net/news/213432/uutils-0-0-16-released)
+
+[ImageMagick 7.1.0-50 发布，多功能图片处理软件](https://www.oschina.net/news/213430/imagemagick-7-1-0-50-released)
 
 [Blender 3.4 将加入对 Wayland 的原生支持](https://www.oschina.net/news/213443/blender-daily-wayland-support-on-linux)
 
+**# 2022年10月12日**
 
+[WebStorm 2022.2.3 发布](https://www.oschina.net/news/213312/webstorm-2022-2-3-released)
+
+[凹语言 v0.2.2 发布](https://www.oschina.net/news/213306/wa-lang-0-2-2-released)
+
+[ShopWind 开源电商系统 V3.4.3 更新，多人拼团重要修复](https://www.oschina.net/news/213395)
+
+[跨境独立站 OpenCart 中文更新 | 多语言自动翻译（第 12 期）](https://www.oschina.net/news/213381)
+
+[ModStartBlog v5.9.0 新增组件特性，基础布局优化](https://www.oschina.net/news/213362)
+
+[开源 Java 低代码开发平台光 2.3.0 文明 Beta4 版，程序员的曲速引擎](https://www.oschina.net/news/213355)
+
+[DataGear 4.1.0 发布，数据可视化分析平台](https://www.oschina.net/news/213351)
+
+[巡云轻论坛系统 5.8 发布，新增电脑版前后端分离模板](https://www.oschina.net/news/213332)
+
+[React Native 0.68.4 发布了](https://www.oschina.net/news/213316/rn-0-68-4-released)
+
+[DBeaver 22.2.2 发布，多平台数据库工具](https://www.oschina.net/news/213315/dbeaver-22-2-2-released)
+
+[Jedis 4.3 发布，Redis Java 客户端](https://www.oschina.net/news/213314/jedis-4-3-0-released)
 
 **# 2022年10月11日**
+
+[JPower v2.1.6 发布 一键同步功能点](https://www.oschina.net/news/213300/jpower-2-1-6-released)
 
 [Kotlin Multiplatform Mobile 第一个 Beta 版本发布](https://www.oschina.net/news/213184/kotlin-multiplatform-mobile-beta)
 
