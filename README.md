@@ -1,6 +1,15 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年10月12日**
+
+[谷歌正式推出 “密钥登录”，逐步取代传统密码登录](https://www.oschina.net/news/213445/google-passkey-to-android-and-chrome)
+
+
+[Blender 3.4 将加入对 Wayland 的原生支持](https://www.oschina.net/news/213443/blender-daily-wayland-support-on-linux)
+
+
+
 **# 2022年10月11日**
 
 [Kotlin Multiplatform Mobile 第一个 Beta 版本发布](https://www.oschina.net/news/213184/kotlin-multiplatform-mobile-beta)
