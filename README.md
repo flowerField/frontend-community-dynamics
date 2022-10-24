@@ -1,6 +1,56 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年10月24日**
+
+[Google Play 服务中的 TensorFlow Lite 已成为官方 ML 引擎](https://www.oschina.net/news/214686/tensorflow-lite-android-official-ml-engine)
+
+[Textual 0.2.0 发布，Python TUI（文本用户界面）框架](https://www.oschina.net/news/214680/textual-0-2-0-released)
+
+[Tailwind CSS v3.2 发布，支持动态断点、多配置和容器查询](https://www.oschina.net/news/214675/tailwind-css-3-2-released)
+
+[Dgraph v22.0 发布，具有图形后端的原生 GraphQL 数据库](https://www.oschina.net/news/214674/dgraph-22-0-released)
+
+[WoTerm v9.22.0 版本发布](https://www.oschina.net/news/214673)
+
+
+**# 2022年10月23日**
+
+[CotEditor 4.4 发布，支持 macOS 13](https://www.oschina.net/news/214558/coteditor-4-4-released)
+
+[Jekyll 4.3 发布，基于 Ruby 的静态网站生成器](https://www.oschina.net/news/214557/jekyll-4-3-released)
+
+
+**# 2022年10月22日**
+
+[Stack Overflow 宣布推出离线版本](https://www.oschina.net/news/214475/stack-overflow-offline-project)
+
+[Docker 涨价高达约 30%，Team 帐户限制最多 100 个用户](https://www.oschina.net/news/214473/docker-october-2022-pricing-change)
+
+[OpenBSD 7.2 发布，第 53 个 OpenBSD 版本](https://www.oschina.net/news/214467/openbsd-7-2-released)
+
+[Kore 3.0 发布，Kodi 的官方遥控器](https://www.oschina.net/news/214466/kore-3-0-released)
+
+[Electron 21.2.0 发布，跨平台桌面应用开发工具](https://www.oschina.net/news/214465/electron-21-2-0-released)
+
+[私域管理平台，LinkWechat V3.1 版本发布](https://www.oschina.net/news/214427/linkwechat-3-1-released)
+
+
+
+**# 2022年10月21日**
+
+[Spring Boot 3.0.0 首个 RC 发布](https://www.oschina.net/news/214401/spring-boot-3-0-0-rc1-released)
+
+[建木 v2.5.7 发布，持续集成平台](https://www.oschina.net/news/214381/jianmu-2-5-7-released)
+
+[Ubuntu 22.10 正式发布](https://www.oschina.net/news/214366/ubuntu-22-10-released)
+
+[Meta 开发了实时翻译闽南语的 AI](https://www.oschina.net/news/214363/hokkien-ai-speech-translation)
+
+
+**# 2022年10月20日**
+**# 2022年10月19日**
+
 **# 2022年10月13日**
 
 [《铜豌豆 Linux》11.5.1 版本发布](https://www.oschina.net/news/project)
