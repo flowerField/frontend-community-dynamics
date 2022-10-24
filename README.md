@@ -47,9 +47,54 @@
 
 [Meta 开发了实时翻译闽南语的 AI](https://www.oschina.net/news/214363/hokkien-ai-speech-translation)
 
+[Puma 6.0.0 发布，关注高并发的 Ruby HTTP 服务器](https://www.oschina.net/news/214353/puma-6-0-0-released)
+
+[Motan 1.2.0 发布，微博开源的高性能分布式 RPC 框架](https://www.oschina.net/news/214352/motan-1-2-0-released)
+
+[Kratos v2.5.2 发布，bilibili 开源的 Go 微服务框架](https://www.oschina.net/news/214351/kratos-2-5-2-released)
+
+[高性能链接器 Mold 发布 1.6 版本](https://www.oschina.net/news/214350/mold-1-6-0-released)
 
 **# 2022年10月20日**
+
+[ThingsPanel 0.4 发布，物联网实现速度预增 10 倍](https://www.oschina.net/news/214240/thingspanel-0-4-released)
+
+[EasyList “瘫痪”，将被迫迁移](https://www.oschina.net/news/214230/easylist-filter-problem)
+
+[AMD 公开全新光追技术，将很快开源](https://www.oschina.net/news/214229/amd-gi-1-0-open-source-global-illumination-tech)
+
+[Mesa 修复 OpenGL 在 KDE Wayland 上导致的光标问题](https://www.oschina.net/news/214228/mesa-fix-opengl-for-kwin-wayland-bug)
+
+
+[Opera 92 稳定版发布](https://www.oschina.net/news/214218/opera-92-stable-released)
+
+[Scrapy 2.7.0 发布，Python 爬虫框架](https://www.oschina.net/news/214216/scrapy-2-7-0-released)
+
+[Taro 3.5.7 发布，BAT 小程序、H5 与 RN 端统一框架](https://www.oschina.net/news/214215/taro-3-5-7-released)
+
+[Docker 20.10.20 发布](https://www.oschina.net/news/214214/docker-20-10-20-released)
+
+[Git 2.38.1 发布，解决安全问题](https://www.oschina.net/news/214213/git-2-38-1-released)
+
+[阿里巴巴 Noslate 正式开源 - 面向云原生的 JavaScript 容器方案](https://www.oschina.net/news/214147)
+
+[ModStartCMS v5.0.0 模块市场优化，模型类型修改](https://www.oschina.net/news/214142/modstartcms-5-0-0-released)
+
 **# 2022年10月19日**
+
+[字节跳动多租户网关 KubeZoo 进入 CNCF 云原生全景图](https://www.oschina.net/news/214129)
+
+[Node.js 19 正式发布](https://www.oschina.net/news/214106/node-js-19-released)
+
+[Open 3D Engine 22.10 发布](https://www.oschina.net/news/214101/open-3d-engine-22-10-released)
+
+[Ash Framework 2.0 正式发布，Elixir 应用开发框架](https://www.oschina.net/news/214098/ash-framework-2-0-released)
+
+[Sentry 22.10.0 发布，跨平台实时应用监控工具](https://www.oschina.net/news/214097/sentry-22-10-0-released)
+
+[FreeFileSync 11.27 发布，文件夹比较与同步软件](https://www.oschina.net/news/214095/freefilesync-11-27-released)
+
+[GnuPG 2.3.8 发布，通用加密引擎](https://www.oschina.net/news/214094/gnupg-2-3-8-released)
 
 **# 2022年10月13日**
 
