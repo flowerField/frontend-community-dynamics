@@ -1,6 +1,56 @@
 
 # 🏄‍ 记录前端相关社区和软件的更新动态
 
+**# 2022年11月06日**
+
+[Magician-Web3 上线了](https://www.oschina.net/news/216641)
+
+[smart-socket 1.5.23 发布，安全可靠的国产通信框架](https://www.oschina.net/news/216631/smart-socket-1-5-23-released)
+
+[比 MP3 小 10 倍，Meta 公开全新音频压缩技术](https://www.oschina.net/news/216623/metas-audio-codec)
+
+[MiniFramework 2.9.1 已经发布，超轻量级的 PHP 框架](https://www.oschina.net/news/216618)
+
+[LXQt 1.2 发布，轻量级 Qt 桌面环境](https://www.oschina.net/news/216616/lxqt-1-2-released)
+
+[Calibre 6.8 发布，功能强大的开源电子书工具](https://www.oschina.net/news/216615/calibre-6-8-released)
+
+**# 2022年11月05日**
+
+[BootstrapBlazor v6.12.0 已经发布，Bootstrap 样式的 Blazor UI 组件库](https://www.oschina.net/news/216543)
+
+[LibreOffice 7.3 生命周期即将结束](https://www.oschina.net/news/216522/libreoffice-7-3-eol)
+
+[Mosh 1.4.0 发布，轻量级 SSH 终端](https://www.oschina.net/news)
+
+[IntelliJ IDEA 2022.3 Beta 发布](https://www.oschina.net/news/216517/intellij-idea-2022-3-beta-released)
+
+[Brave Browser 1.45 发布](https://www.oschina.net/news/216516/brave-browser-1-45-released)
+
+[Spring Framework 6.0.0-RC3 发布](https://www.oschina.net/news/216515/spring-framework-6-0-0-rc3-released)
+
+[Ardour 7.1 现已发布，跨平台音频编辑器](https://www.oschina.net/news/216514/ardour-7-1-released)
+
+[Serverless Framework 3.24.0 发布](https://www.oschina.net/news/216513/serverless-3-24-0-released)
+
+**# 2022年11月04日**
+
+[[版本更新] PolarDB-X v2.2: 企业级和国产化适配](https://www.oschina.net/news/216440)
+
+[面向 DevOps 领域的极易扩展的开源无代码 (图形化)/ 低代码 (GitOps) 工具建木 v2.5.8 发布](https://www.oschina.net/news/216423)
+
+[MakuBoot v2.2 发布，最简洁的快速开发平台](https://www.oschina.net/news/216422)
+
+[PowerToys v0.64 发布，支持快速备份 / 恢复设置](https://www.oschina.net/news/216370/powertoys-0-64-released)
+
+[Rust 1.65.0 稳定版发布，泛型关联类型 (GATs) 正式稳定](https://www.oschina.net/news/216368/rust-1-65-0-released)
+
+[Riot v7.0.7 发布，基于组件的 UI 库](https://www.oschina.net/news/216366/riot-7-0-7-released)
+
+[腾讯企业级设计体系 TDesign 发布 2022.11 第一周更新](https://www.oschina.net/news/216364/tdesign-2022-11-1-weekly-released)
+
+[Django-Vue-Admin v2.0.6 已经发布，后台管理系统](https://www.oschina.net/news/216360)
+
 **# 2022年10月24日**
 
 [Google Play 服务中的 TensorFlow Lite 已成为官方 ML 引擎](https://www.oschina.net/news/214686/tensorflow-lite-android-official-ml-engine)
