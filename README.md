@@ -51,6 +51,44 @@
 
 [Django-Vue-Admin v2.0.6 已经发布，后台管理系统](https://www.oschina.net/news/216360)
 
+**# 2022年11月03日**
+
+[OceanBase v4.0.0_CE 已经发布，企业级开源分布式数据库](https://www.oschina.net/news/216250)
+
+[SUSE 发布超融合基础设施 Harvester v1.1.0](https://www.oschina.net/news/216233)
+
+[Snowy V2.1.0 已发布，全新代码生成上线](https://www.oschina.net/news/216231)
+
+[Visual Studio Code 1.73 正式发布](https://www.oschina.net/news/216223/visual-studio-code-1-73-released)
+
+[开源的 PHP 电子商务网站框架Sylius 1.12 发布，支持 Symfony 6](https://www.oschina.net/news/216215/sylius-1-12-0-released)
+
+[TypeScript 4.9 RC 已发布](https://www.oschina.net/news/216213/typescript-4-9-rc-released)
+
+[Stellarium 1.1 发布，开源 3D 天象模拟软件](https://www.oschina.net/news/216212/stellarium-1-1-released)
+
+[Zotero 6.0.16 发布，参考文献管理工具](https://www.oschina.net/news/216211/zotero-6-0-16-released)
+
+[Apache Dubbo 3.1.2 发布，分布式 RPC 服务框架](https://www.oschina.net/news/216210/dubbo-3-1-2-released)
+
+[ModStartCMS v5.1.0 数据采集接口，登录自动注册](https://www.oschina.net/news/216149)
+
+**# 2022年11月02日**
+
+[BeikeShop 跨境电商独立站系统更新 V1.1，引入插件市场](https://www.oschina.net/news/216135)
+
+[高性能优惠叠加计算框架 Q-calculator 发布！](https://www.oschina.net/news/216119)
+
+[Smart-doc 2.6.2 发布，Java 零注解 API 文档生成工具](https://www.oschina.net/news/216095)
+
+[北海 Kraken：基于 Flutter 构建的高性能 Web 渲染引擎](https://my.oschina.net/u/3859945/blog/5560599)
+
+[Elastic 8.5 发布，缩短实现可观测性的时间](https://www.oschina.net/news/216079/elasticsearch-8-5-released)
+
+[Ant Design 4.24 发布，企业级 UI 设计语言和 React 实现](https://www.oschina.net/news/216078/ant-design-4-24-released)
+
+[Go 1.19.3 和 1.18.8 发布，修复安全问题](https://www.oschina.net/news/216077/go-1-19-3-n-1-18-8-released)
+
 **# 2022年10月24日**
 
 [Google Play 服务中的 TensorFlow Lite 已成为官方 ML 引擎](https://www.oschina.net/news/214686/tensorflow-lite-android-official-ml-engine)
