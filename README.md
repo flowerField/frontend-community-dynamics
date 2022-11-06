@@ -89,6 +89,35 @@
 
 [Go 1.19.3 和 1.18.8 发布，修复安全问题](https://www.oschina.net/news/216077/go-1-19-3-n-1-18-8-released)
 
+[Git Extensions v4 发布，独立的 Git 仓库 UI 管理工具](https://www.oschina.net/news/216076/gitextensions-v4-released)
+
+[Grafana 9.2.3 发布，系统指标监控与分析平台](https://www.oschina.net/news/216073/grafana-9-2-3-released)
+
+**# 2022年11月01日**
+
+[SAPI++ 多应用多租户 SaaS 应用引擎 v2.1.3 发布](https://www.oschina.net/news/216053/sapixx-2-1-3-released)
+
+[Turbopack 公布性能基准测试，Vite 创建者尤雨溪再度发声](https://www.oschina.net/news/216029/turbopack-benchmarks)
+
+[kunlun-admin v1.3.5 发布，昆仑管理系统](https://www.oschina.net/news/215999)
+
+[apijson-framework 5.3.0 发布，腾讯 APIJSON 服务端框架](https://www.oschina.net/news/215946)
+
+[renren-security v5.2 发布，支持达梦数据库](https://www.oschina.net/news/215940)
+
+[EE 框架 2.2.1 发布，简单易学的桌面应用开发框架](https://www.oschina.net/news/215937)
+
+[Shopify 收购全栈框架 Remix](https://www.oschina.net/news/215932/shopify-acquires-remix)
+
+[Bcachefs 推出新分配器，性能继续提升](https://www.oschina.net/news/215923/bcachefs-linux-october-2022)
+
+[Skyline：可将 Android 设备模拟为 Switch](https://my.oschina.net/u/3859945/blog/5560604)
+
+[洛书中文编程 1.4.2 发布](https://www.oschina.net/news/215920)
+
+[NotionNext Notion 静态博客生成器](https://www.oschina.net/p/notion-next)
+
+
 **# 2022年10月24日**
 
 [Google Play 服务中的 TensorFlow Lite 已成为官方 ML 引擎](https://www.oschina.net/news/214686/tensorflow-lite-android-official-ml-engine)
